@@ -1,0 +1,19 @@
+.image
+{
+    border: 7px solid #e9ecef;
+}
+.timeline
+{
+    position: relative;
+}
+.timeline::after
+{
+content: " ";
+    position: absolute;
+    top: 48px;
+    left: 43%;
+    width: 5px;
+    height: 100%;
+    z-index: -1;
+    background-color: #e9ecef;
+}
