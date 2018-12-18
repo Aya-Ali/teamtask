@@ -1,3 +1,54 @@
+#team
+{
+    overflow: hidden;
+    background-color: #f8f9fa;
+}
+
+.title h2
+{
+    color: #212529;
+    font-size: 38px;
+  
+}
+#team p
+{
+    color: #6c757d;
+}
+#team img
+{
+    width: 65%;
+}
+#team .myicon
+{
+    color: white;
+    font-size: 22px;
+    
+}
+.myicon i
+{
+    background-color: #212529;
+    
+    border-radius: 100%;
+    padding: 13px;
+    cursor: pointer;
+}
+
+.myicon i:hover
+{
+    background-color: #fec503;
+}
+.mylogo img
+{
+    width: 100%;
+    height: 58px;
+    cursor: pointer;
+
+}
+.logoss
+{
+    background-color: white;
+}
+    
 .image
 {
     border: 7px solid #e9ecef;
