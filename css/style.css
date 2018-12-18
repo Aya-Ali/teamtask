@@ -1,0 +1,52 @@
+*{
+    transition: all 1s;
+}
+#contact{
+    background-color: #212529;
+    background-image: url("map-image.png");
+    background-size: 100% 100%; 
+    background-repeat:no-repeat ;
+    padding:80px;
+}
+h2{
+    font-size:40px!important;
+    color:white!important;
+    font-weight:700!important;
+}
+.p{
+    color:#6c757d;
+    font-style:italic;
+}
+textarea{
+    width:600px;
+    height:240px;
+    border-radius: 10px;
+    padding-left:20px;
+}
+button{
+    background-color: #fed136;
+    color:white;
+    margin-top:20px;
+}
+input{
+    height:70px!important;
+    border-radius: 10px;
+}
+::placeholder{
+    color:#b3b3b4!important;
+    font-weight: 700;
+}
+i{
+    color:white;
+    background-color: #212529;
+    border-radius: 50%;
+}
+i:hover{
+    background-color: #fed136;
+}
+a{
+    color:#fed136!important;
+}
+a:hover{
+    text-decoration: underline!important;
+}
